@@ -11,7 +11,6 @@ import (
 
 	_ "github.com/gogo/protobuf/gogoproto"
 	proto "github.com/golang/protobuf/proto"
-	_ "kylin-kv/moudule/raft/versionpb"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.
